@@ -1,4 +1,9 @@
-
+## 💫About Me :
+Field: Embedded Systems
+Embedded Systems Development: MCU Programming (STM32, etc.), Basic PCB Design
+Workplace: UTE
+Current Position: Student
+Contact: nguyenkluan957@gmail.com
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.khac.luan.308887)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khac-luan-63926b322/) 
